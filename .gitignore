@@ -1,0 +1,9 @@
+cover_reference.png
+emblem.png
+*.tex
+*.log
+*.aux
+*.out
+*.toc
+.DS_Store
+*.ipynb
